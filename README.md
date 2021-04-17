@@ -1,7 +1,7 @@
 # dog_breed_classification_cnn
 Dog breed detector and even detect resemblance of human with dog breed
 
-![]( "assets/hamza.PNG" )
+![]( assets/hamza.PNG )
 
-![]( "assets/dog.PNG" )
+![]( assets/dog.PNG )
 
